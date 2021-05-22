@@ -1,0 +1,6 @@
+@InProceedings{yang2021tap,
+author={Yang, Zhengyuan and Lu, Yijuan and Wang, Jianfeng and Yin, Xi and Florencio, Dinei and Wang, Lijuan and Zhang, Cha and Zhang, Lei and Luo, Jiebo},
+title = {TAP: Text-Aware Pre-training for Text-VQA and Text-Caption},
+booktitle = {Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+year = {2021}
+}

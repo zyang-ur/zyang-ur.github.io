@@ -1,0 +1,8 @@
+@inproceedings{yang2017personalized,
+  title={Personalized pose estimation for body language understanding},
+  author={Yang, Zhengyuan and Luo, Jiebo},
+  booktitle={2017 IEEE International Conference on Image Processing (ICIP)},
+  pages={126--130},
+  year={2017},
+  organization={IEEE}
+}

@@ -1,0 +1,7 @@
+@inproceedings{qi2019attentive,
+  title={Attentive Relational Networks for Mapping Images to Scene Graphs},
+  author={Qi, Mengshi and Li, Weijian and Yang, Zhengyuan and Wang, Yunhong and Luo, Jiebo},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  pages={3957--3966},
+  year={2019}
+}

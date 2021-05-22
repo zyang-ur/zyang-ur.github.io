@@ -1,0 +1,7 @@
+@inproceedings{lin2020dynamic,
+  title={Dynamic Context-guided Capsule Network for Multimodal Machine Translation},
+  author={Lin, Huan and Meng, Fandong and Su, Jinsong and Yin, Yongjing and Yang, Zhengyuan and Ge, Yubin and Zhou, Jie and Luo, Jiebo},
+  booktitle={Proceedings of the 28th ACM International Conference on Multimedia},
+  pages={1320--1329},
+  year={2020}
+}

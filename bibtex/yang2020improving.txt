@@ -1,0 +1,6 @@
+@InProceedings{yang2020improving,
+  title={Improving One-stage Visual Grounding by Recursive Sub-query Construction},
+  author={Yang, Zhengyuan and Chen, Tianlang and Wang, Liwei and Luo, Jiebo},
+  booktitle={ECCV},
+  year={2020}
+}

@@ -1,0 +1,7 @@
+@inproceedings{yang2019human,
+  title={Human-Centered Emotion Recognition in Animated GIFs},
+  author={Yang, Zhengyuan and Zhang, Yixuan and Luo, Jiebo},
+  booktitle={ICME},
+  year={2019},
+  organization={IEEE}
+}

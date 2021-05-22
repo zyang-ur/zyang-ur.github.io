@@ -1,0 +1,6 @@
+@InProceedings{yang2020pose,
+  title={Pose-based Body Language Recognition for Emotion and Psychiatric Symptom Interpretation},
+  author={Yang, Zhengyuan and Kay, Amanda and Li, Yuncheng and Cross, Wendi and Luo, Jiebo},
+  booktitle={ICPR},
+  year={2020}
+}

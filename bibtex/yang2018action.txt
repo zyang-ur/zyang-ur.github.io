@@ -1,0 +1,15 @@
+@article{yang2018action,
+  title={Action recognition with spatio-temporal visual attention on skeleton image sequences},
+  author={Yang, Zhengyuan and Li, Yuncheng and Yang, Jianchao and Luo, Jiebo},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},
+  year={2018},
+  publisher={IEEE}
+}
+@inproceedings{yang2018action,
+  title={Action Recognition with Visual Attention on Skeleton Images},
+  author={Yang, Zhengyuan and Li, Yuncheng and Yang, Jianchao and Luo, Jiebo},
+  booktitle={2018 24th International Conference on Pattern Recognition (ICPR)},
+  pages={3309--3314},
+  year={2018},
+  organization={IEEE}
+}

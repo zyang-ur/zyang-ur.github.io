@@ -1,0 +1,7 @@
+@article{yang2020grounding,
+  title={Grounding-Tracking-Integration},
+  author={Yang, Zhengyuan and Kumar, Tushar and Chen, Tianlang and Su, Jingsong and Luo, Jiebo},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},
+  year={2020},
+  publisher={IEEE}
+}

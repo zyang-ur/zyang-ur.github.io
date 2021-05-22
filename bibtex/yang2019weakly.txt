@@ -1,0 +1,6 @@
+@article{yang2019weakly,
+  title={Weakly Supervised Body Part Parsing with Pose based Part Priors},
+  author={Yang, Zhengyuan and Li, Yuncheng and Yang, Linjie and Zhang, Ning and Luo, Jiebo},
+  journal={arXiv preprint arXiv:1907.13051},
+  year={2019}
+}

@@ -1,0 +1,8 @@
+@inproceedings{yang2018end,
+  title={End-to-end multi-modal multi-task vehicle control for self-driving cars with visual perceptions},
+  author={Yang, Zhengyuan and Zhang, Yixuan and Yu, Jerry and Cai, Junjie and Luo, Jiebo},
+  booktitle={2018 24th International Conference on Pattern Recognition (ICPR)},
+  pages={2289--2294},
+  year={2018},
+  organization={IEEE}
+}
