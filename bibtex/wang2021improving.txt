@@ -1,0 +1,7 @@
+@inproceedings{wang2021improving,
+  title={Improving Weakly Supervised Visual Grounding by Contrastive Knowledge Distillation},
+  author={Wang, Liwei and Huang, Jing and Li, Yin and Xu, Kun and Yang, Zhengyuan and Yu, Dong},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={14090--14100},
+  year={2021}
+}

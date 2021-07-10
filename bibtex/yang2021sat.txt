@@ -1,0 +1,6 @@
+@article{yang2021sat,
+  title={SAT: 2D Semantics Assisted Training for 3D Visual Grounding},
+  author={Yang, Zhengyuan and Zhang, Songyang and Wang, Liwei and Luo, Jiebo},
+  journal={arXiv preprint arXiv:2105.11450},
+  year={2021}
+}

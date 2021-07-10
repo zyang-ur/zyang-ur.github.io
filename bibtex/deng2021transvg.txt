@@ -1,0 +1,6 @@
+@article{deng2021transvg,
+  title={TransVG: End-to-End Visual Grounding with Transformers},
+  author={Deng, Jiajun and Yang, Zhengyuan and Chen, Tianlang and Zhou, Wengang and Li, Houqiang},
+  journal={arXiv preprint arXiv:2104.08541},
+  year={2021}
+}
