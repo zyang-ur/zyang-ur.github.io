@@ -1,0 +1,323 @@
+Videoname,Prev,Updated,"* indicates no video-level query can be generated to satisfy all clips (e.g., query ""on the left"" with target moving from left to right); ** indicates no frame-level referring query can be generated (e.g., groups of animals) "
+airplane/airplane-14,brown airplane flying in the air,airplane flying in the air,
+airplane/airplane-16,brown airplane flying in the air,airplane flying in the air,
+airplane/airplane-13,white airplane flying in the air ,bottom white airplane flying in the air,
+airplane/airplane-5,airplane flying among other airplanes,large airplane flying among other airplanes in the middle,
+basketball/basketball-13,basketball on a girl's hand,basketball third from the right on a girl's hand,
+basketball/basketball-1,red basketball on a girl's hand,red basketball hold by the girl in the middle,
+basketball/basketball-11,basketball colored in red and black being played by a boy,basketball colored in red and black being played by a boy in blue,
+basketball/basketball-9,red basketball on a woman's hand,red basketball on a woman's hand on the left,*
+basketball/basketball-16,basketball on a boy's hand,the striped basketball on a boy's hand,
+basketball/basketball-3,red basketball on a boy's hand,red basketball hold by the boy wearing grey shirts and green pants in the second row,
+bear/bear-8,white bear walking on the river bank,the larger white bear walking on the river bank,
+bear/bear-17,brown bear hunting on the ground,the darker bear hunting on the ground,
+bear/bear-20,white bear walking around a swimming pool,the front most white bear walking around a swimming pool,
+bear/bear-19,white bear playing with other bears on the snow ground,the front white bear playing with other bears on the snow ground,*
+bear/bear-3,brown bear fighting with another bear on the grass ground,brown bear on the left fighting with another bear on the grass ground,*
+bear/bear-6,bear waking on the ground with other bears,the largest bear waking on the ground with other bears,
+bear/bear-9,white bear playing in the swimming pool,a small white bear playing in the swimming pool,
+bear/bear-15,bear colored in white and black playing with other bears,a panda climbing up the fence,
+bicycle/bicycle-11,girl by a boy on the road,a bicycle on the road,
+bicycle/bicycle-9,bicycle by a man o the street,bicycle by a man on the street,
+bicycle/bicycle-5,bicycle ridden by man on road,bicycle ridden by a man in black on road,
+bicycle/bicycle-6,bicycle by a man on the road,bicycle with a single wheel by a man on the road,
+bicycle/bicycle-7,bicycle by a man on the road with other bicycles,a fancy bicycle by a man in white on the road with other bicycles,
+bicycle/bicycle-16,white bicycle by a girl on the ground,white bicycle by a girl on the ground on the right,
+bird/bird-5,bird walking on the ground,bird walking on the ground,**
+bird/bird-14,white bird walking among gray birds on the grass ground,the large white goose on the right walking among gray birds on the grass ground,
+bird/bird-3,bird flighting with another bird,the peacock flighting with another bird,
+bird/bird-2,white bird walking on the among other birds,the penguin walking alone on the among other birds,**
+bird/bird-13,bird in gray and white walking on the grass ground,the grey and white penguin walking on the grass grounding on the right,*
+bird/bird-11,bird walking on the grass ground,peacock with blue neck walking on the grass ground,
+bird/bird-12,white bird playing with a black bird on the river,white bird playing on the river,
+bird/bird-9,Bird walking above the cage,grey bird walking above the cage,
+bird/bird-15,black bird standing on the ground,black bird on the bottom left standing on the ground,
+bird/bird-16,gray bird walking on the road,the large gray bird walking on the road,
+bird/bird-19,gray bird flying in the air among other birds,gray bird flying in the air among other birds in the center,**
+boat/boat-15,red boat moving on the river,red kayak moving on the river,
+book/book-13,book on the top of another books,red and white book on the top of another books in the front,
+book/book-12,blue book being placed on the desk,book being placed on the desk,
+book/book-11,book placed on the bookshelf behind human,book placed on the bookshelf behind human on the right with a dark surface,
+book/book-5,book being placed on the other book,book being placed on the other book being picked up by a man,
+book/book-3,book being placed on other books,book on the top of the cloested stack with a black surface,
+bottle/bottle-16,bottle moved by hand of man,the third from the left bottle moved by hand of man,
+bottle/bottle-19,bottle be placed on the desk among other bottles,the center water bottle be placed on the desk among other bottles,
+bottle/bottle-20,green bottle being placed on the desk,the green transparent bottle being placed on the desk on the right,
+bottle/bottle-6,bottle being placed on the desk,the second from the right bottle being placed on the desk,
+bottle/bottle-14,bottle placed on table,the left most purple bottle placed on table,
+bottle/bottle-4,bottle being placed on the desk,the larger bottle being placed on the desk,
+bottle/bottle-9,bottle hanged in a stick,right bottle hanged in a stick,
+bottle/bottle-7,bottle moved by hand,bottle moved by hand on the corner,**
+bottle/bottle-15,bottle being placed on the desk,dark bottle being placed on the desk partly covered by a bottle of scotch,*
+bottle/bottle-12,bottle hanged in the air,the left green bottle hanged in the air,**
+bottle/bottle-8,bottle being placed on the desk,the light blue bottle being placed on the desk,
+bus/bus-18,bus running on the road in the night,bus with a ladder in the back running on the road in the night,*
+bus/bus-4,bus running on road,grey bus running on road,*
+bus/bus-9,bus running on the road,sliver bus running on the road,*
+car/car-9,car running on the street in the night,a black car running on the street in the night,
+car/car-17,black car running on the road,black car with a white plate running on the road,
+car/car-18,car running on the road,a grey car running on the road,*
+car/car-8,car slowly running on the ground,a black jeep slowly running on the ground,
+car/car-7,white car running on the road,sliver car running on the road,
+cat/cat-3,white cat moving around a toy tiger on the blanket,white cat moving around a toy tiger on the blanket,*
+cat/cat-17,cat fighting with another cat on the ground,a brown and white cat fighting with another black cat on the ground,
+cattle/cattle-14,cattle fighting with another cattle on the ground,cattle on the left fighting with another cattle on the ground,*
+cattle/cattle-3,cattle fighting with another cattle on the grass ground,cattle on the left fighting with another cattle on the grass ground,**
+cattle/cattle-13,brown cattle walking among other cattle on the farm land,the right most brown cattle walking among other cattle on the farm land,**
+cattle/cattle-2,cattle standing on the grass ground,cattle standing on the grass ground on the right,
+cattle/cattle-20,cattle walking in the river,the front cattle walking in the river,
+cattle/cattle-7,brown cattle standing on the ground,brown cattle standing on the ground on the right,
+chameleon/chameleon-17,chameleon standing on the tree branch,chameleon standing on the left side of the tree branch,
+chameleon/chameleon-20,gray chameleon walking on the tree branch,gray chameleon in the back walking on the tree branch,
+chameleon/chameleon-14,chameleon fighting with another chameleon on the grass ground,chameleon in the back fighting with another chameleon on the grass ground,
+coin/coin-12,silver coin on the desk among several coins,silver coin on the desk in the center among several coins,
+coin/coin-18,coin being placed on the desk among several coins,the 50 cents coin being placed in the center bottom among several coins,**
+coin/coin-6,coin being held by a hand,golden commemorative coin being placed between other coins,*
+coin/coin-16,coin turned by hand,polygon coin on the top left,
+coin/coin-15,coin being placed on the desk with two coins,coin being placed on the desk with two coins and moved around,**
+coin/coin-9,coin being placed on the desk among several coins,golden coin on the left being placed on the desk among several coins,
+coin/coin-13,silver coin on the desk among several coins,silver coin in the middle among several coins,
+coin/coin-4,coin being placed on the desk,coin on the top right being placed on the desk,**
+coin/coin-3,silver coin being placed on the desk,the top right silver coin,
+coin/coin-20,coin being placed on the desk,darker coin of a medium size,**
+coin/coin-17,silver coin being placed on the desk with another coin,attrited coin being placed on the desk with another coin,*
+coin/coin-5,coin moving on the desk,the rightmost coin being moved to the left,**
+coin/coin-10,coin moved by hand on paper,coin at the cross,**
+crab/crab-7,crab moving on the ground,lower right crab moving on the ground,
+crab/crab-6,crab fighting with other crabs,the bottom crab fighting with other crabs,**
+crocodile/crocodile-7,crocodile sitting on the ground,crocodile in the front sitting on the ground,
+cup/cup-10,transparent cup standing on the desk,tall thin empty cup standing on the desk,
+cup/cup-3,red cup being placed on the desk,red cup on the right,*
+cup/cup-2,transparent cup being placed on the desk,glass on the right,
+cup/cup-5,red cup being placed on the desk,red cup in the middle,*
+cup/cup-19,transparent cup being placed on the desk,the third from the left glass ,
+cup/cup-4,transparent cup being placed on the desk,the third from the right glass,
+cup/cup-13,cup being placed on the desk,purple cup on the left,
+cup/cup-20,paper cup being placed on the desk,paper cup in the center being moved around,**
+deer/deer-3,deer fighting with another deer on the grass ground,elk on the right fighting with another deer on the grass ground,**
+deer/deer-11,deer walking on the ground among other deer,brown dotted deer in the back left walking on the ground among other deer,**
+deer/deer-5,deer fighting with another beer on the ground,deer on the left,**
+deer/deer-17,gray deer eating on the grass ground,gray on the right deer eating on the grass ground,*
+deer/deer-8,deer walking on the grass ground,top right deer walking on the grass ground,**
+dog/dog-13,dog walking on the ground with another brown dog,a black dog walking on the ground with another brown dog,
+dog/dog-9,dog chasing for a toy racing car on the ground,a dog mostly in black chasing for a toy racing car on the ground,
+drone/drone-14,drone flying in the air,drone taking off and flying over a parking lot,
+drone/drone-17,drone flying in the air,drone flying over a indoor field,
+drone/drone-3,drone flying in the air,drone flying inside a room,
+drone/drone-7,drone flying in the air,drone flying inside the kitchen,
+drone/drone-4,drone flying in the air,drone flying inside a room,
+electricfan/electricfan-7,electric fan swinging on the ground,stand fan on the right in the first row,
+electricfan/electricfan-8,electric fan swinging on the ground,tall white standing electric fan swinging on the ground,
+electricfan/electricfan-13,electric fan standing on ground,small electric fan in lower left,
+electricfan/electricfan-17,electric fan being placed on the desk,blue electric fan of a smaller size being placed on the desk,
+electricfan/electricfan-10,electric fan swinging on the ground,electric fan on the left,
+electricfan/electricfan-18,electric fan swing on the ground,short electric fan on the right,*
+electricfan/electricfan-9,black electric fan being placed on the desk,black electric fan being placed on the left side of the desk,
+electricfan/electricfan-5,electric fan being hanged in the air,electric fan being hanged in the middle,
+electricfan/electricfan-2,electric fan swinging on the ground,electric fan in the middle,
+elephant/elephant-20,elephant walking on the ground,elephant walking on the ground,**
+elephant/elephant-12,elephant walking on the ground among other elephants,elephant walking on the ground among other elephants,**
+elephant/elephant-1,elephant walking on the ground with other elephants,elephant walking on the ground with other elephants,**
+elephant/elephant-15,elephant running on the grass ground,baby elephant running on the grass ground,*
+elephant/elephant-2,elephant walking on the ground,small elephant walking on the ground,
+elephant/elephant-11,elephant fighting with another elephant on the ground,elephant on the left,*
+elephant/elephant-9,elephant playing on the grass ground with other elephants,elephant playing on the grass ground with other elephants,**
+elephant/elephant-13,elephant standing on the ground,elephant standing on the ground,**
+elephant/elephant-10,elephant running on the ground,small elephant running on the ground,
+flag/flag-10,red flag moving up in the flag raising ceremony,red Chinese flag moving up in the flag raising ceremony,
+flag/flag-19,flag on the top of the flagpole waving in the sky,flag on the top of the flagpole waving in the sky,**
+flag/flag-4,flag tied on a paragliding flying in the sky,American flag tied on a paragliding flying in the sky,
+flag/flag-3,flag tied on a paragliding flying in the sky,American flag tied on a paragliding flying in the sky,
+flag/flag-17,red flag held by a woman in a parade group,American flag held by a woman in a parade group,
+fox/fox-19,fox playing with another fox in the snow,fox on the right,*
+fox/fox-16,fox playing with another fox in the snow,brown fox in the back playing with another fox in the snow,
+gametarget/gametarget-6,gametarget of person fighting another one on platform,person with black hair fighting another one on platform,
+gametarget/gametarget-19,gametarget of a person kicking the enemies,a person in dark red kicking the enemies,
+gametarget/gametarget-10,gametarget of a person fighting the rival,a person in black fighting the rival,
+gametarget/gametarget-2,an animal running on the ground,a blue animal running on the ground,
+gecko/gecko-5,gray gecko playing with another gray gecko on the wall,gray gecko on the top,
+gecko/gecko-13,orange gecko climbing in a pot,orange gecko climbing in a pot,**
+gecko/gecko-6,gecko with other geckos creeping in a box,a red and green piebald gecko with other geckos creeping in a box,
+giraffe/giraffe-17,giraffe running in the bush,giraffe on the right,
+giraffe/giraffe-8,giraffe walking to a tree in the field,giraffe walking to a tree and eating leaves,
+giraffe/giraffe-11,group of giraffe running on the field,scond from the left giraffe running on the field,**
+goldfish/goldfish-11,goldfish swimming with other fishes in a fish tank,goldfish with white head and a red dot on top swimming with other fishes in a fish tank,**
+goldfish/goldfish-16,goldfish swimming in the water,dark grey goldfish swimming in the water,
+goldfish/goldfish-4,white goldfish swimming among other goldfishes in a fish tank,small white goldfish swimming among other goldfishes in a fish tank,
+goldfish/goldfish-3,goldfish swimming in the water,white goldfish swimming in the water,
+goldfish/goldfish-19,goldfish swimming with other gold fishes in water,red goldfish in the front swimming with other gold fishes in water,
+goldfish/goldfish-14,goldfish swimming with other fishes in a fish tank,red and white goldfish swimming with other fishes in a fish tank,
+goldfish/goldfish-8,goldfish swimming among other fishes in the water,goldfish with red back swimming among other fishes in the water,**
+goldfish/goldfish-13,goldfish swimming in water with other goldfishes,goldfish swimming in water with other goldfishes,**
+goldfish/goldfish-9,orange goldfish swimming with other goldfishes in the water,orange goldfish swimming from left to right,**
+gorilla/gorilla-17,little black gorilla playing with another little black gorilla in the yard of a zoo,little black gorilla playing with another little black gorilla in the yard of a zoo,**
+gorilla/gorilla-7,little black gorilla playing with another little black gorilla in the yard of a zoo,little black gorilla in the bottom,*
+gorilla/gorilla-14,little black gorilla playing with two large black gorillas in the yard of a zoo,large gorilla playing the ball and sitting near the wall,
+gorilla/gorilla-18,black gorilla playing with another black gorilla in the yard of a zoo,black gorilla playing with another black gorilla in the yard of a zoo,**
+gorilla/gorilla-15,little black gorilla playing with two large black gorillas in the yard of a zoo,black gorilla walking from the front to the back,*
+gorilla/gorilla-11,black gorilla playing with another gorilla in the yard of a zoo,black gorilla playing with another gorilla in the yard of a zoo,**
+gorilla/gorilla-8,little black gorilla playing with other gorillas in the yard of a zoo,the smallest black gorilla playing with other gorillas in the yard of a zoo,*
+gorilla/gorilla-2,black gorilla playing with other gorillas in the yard of a zoo,small black gorilla in the back,*
+gorilla/gorilla-4,black gorilla playing with other gorillas in the yard of a zoo,large black gorilla,
+gorilla/gorilla-13,little black gorilla playing with two large black gorillas in the yard of a zoo,black gorilla walking around and playing with two large black gorillas,
+gorilla/gorilla-3,black gorilla playing with another gorilla in the yard of a zoo,black gorilla playing with another gorilla in the yard of a zoo,**
+gorilla/gorilla-16,little black gorilla playing with another little black gorilla in the yard of a zoo,little black gorilla on the left,
+guitar/guitar-7,guitar played by a man,guitar played by a man on right,
+guitar/guitar-8,guitar played by a man on the street,white guitar played by a man on the street,
+guitar/guitar-19,guitar played by a boy,guitar played by a boy on the left,
+guitar/guitar-10,guitar being placed on the ground,guitar on the left standing on the ground,
+guitar/guitar-6,guitar played by a man,guitar played by a singer,
+hand/hand-12,hand of a man,left hand,
+hand/hand-13,hand of a man,left hand,
+hand/hand-11,hand of a girl,left hand of a gilr in striped cloth,
+hand/hand-8,hand of a man,right hand of the man on the left,
+hand/hand-15,hand of a man,right hand of the lady,
+hand/hand-18,hand of a man,right hand of a man,
+hand/hand-14,hand of a man,right hand of a man,
+hand/hand-16,hand of a man,right hand of a man,
+hand/hand-19,hand of a man,left hand of the man on the left,
+hand/hand-20,hand of a man,right hand of the man,
+hand/hand-17,hand of a boy,right hand of the boy,
+hat/hat-6,purple hat worn by a smallest soldier walking in a square,purple hat worn by a shortest soldier walking in a square,
+hat/hat-19,white hat worn by a soldier walking in the grass,white hat worn by a soldier holding the flag,
+hat/hat-5,purple hat worn by a soldier walking in a square,purple hat worn by the tallest soldier,
+helmet/helmet-20,helmet worn by a child skating on the ice,light color helmet worn by a child in red skating on the ice,
+helmet/helmet-3,helmet worn by a child skating on the ice,helmet worn by a child riding a motor,
+hippo/hippo-8,hippo walking with another hippo in the bush,hippo on the left,
+hippo/hippo-10,hippo playing with another hippo in the sand,hippo on the right,
+horse/horse-9,horse walking with a larger horse in the field, small horse walking with a larger horse in the field,
+kangaroo/kangaroo-5,kangaroo fighting with another one on the grass,kangaroo on the right fighting with another one on the grass,**
+kangaroo/kangaroo-16,kangaroo running in the yard,kangaroo running in the yard,*
+kangaroo/kangaroo-20,kangaroo fighting with another one in the yard of a zoo,kangaroo on thr right fighting with another one in the yard of a zoo,
+kangaroo/kangaroo-1,kangaroo playing with another one on the grass,little kangaroo playing with another one on the grass,
+kangaroo/kangaroo-19,kangaroo fighting with another one on the ground,the taller kangaroo fighting with another one on the ground,**
+kite/kite-9,kite flying with another kite in the sky,kite on the right flying in the sky,*
+leopard/leopard-3,black leopard lied on the ground with another black leopard,black leopard lied on the right,
+leopard/leopard-17,leopard drinking water at shore with another one,leopard with balck tail drinking water at shore,
+leopard/leopard-15,leopard walking and playing with black leopard on ground,gold dotted leopard walking and playing with black leopard on ground,
+licenseplate/licenseplate-20,license plate on the back of a black jeep,license plate on the back of a white car,
+lion/lion-19,yellow lion playing with another lion in the cage,yellow lion with brown mane playing with another lion in the cage,
+lion/lion-4,yellow lion swimming with other lions in the water,yellow lion floating,
+lion/lion-15,lion standing on the ground,large lion standing on the ground,
+lion/lion-14,lion walking in the grass,lion walking in the front,
+lion/lion-18,lion walking in the yard of a zoo,lion walking in the yard of a zoo,**
+lion/lion-12,yellow lion playing a ball on the ground,yellow lion lying on the ground and playing a ball,
+lion/lion-17,yellow lion walking in the cage,yellow lion with mane walking in the cage,
+lion/lion-13,yellow lion swimming with other lions in the water,yellow lion swimming on the left,
+lizard/lizard-12,lizard creeping with other lizards on the ground,light grey lizard creeping with other lizards on the ground,
+lizard/lizard-11,lizard fed by person,small lizard fed by person,
+monkey/monkey-19,monkey playing on the tree branch with other monkeys,monkey climbing up the tree branch,**
+monkey/monkey-1,monkey among other monkeys,monkey sitting and walking,**
+monkey/monkey-4,brown monkey playing with other monkeys on the ground,little brown monkey playing on the ground,
+motorcycle/motorcycle-4,motorcycle driving on the road,the closest motorcycle driving on the road,
+mouse/mouse-6,mouse running in a cage,mouse running in a cage on the left,
+person/person-18,woman standing in the crowd,woman in black standing on the left of a girl in white,
+person/person-8,man in black standing on the street in crowd,tall man in black standing on the street next to a boy wearing blue,
+person/person-17,boy dancing on the stage among other boys,boy dancing on the stage among other boys,**
+person/person-20,woman in red playing volleyball,woman in red in the front,
+person/person-2,person dancing among other persons,girl in white shirts and black pants in the middle dancing among other persons,**
+person/person-9,man in black playing basketball on the stage,lebron james playing basketball on the stage,**
+person/person-5,boy dancing on the stage among other boys,boy dancing on the stage among other boys,**
+pig/pig-9,black pig walking with another black pig on grass,smaller black pig walking with another black pig on grass,
+pig/pig-2,black pig playing with other black pigs,black pig playing with other black pigs,**
+pig/pig-5,white pig walking around another white pig,small white pig walking around another white pig,*
+pig/pig-18,brown pig fighting another brown pig,brown pig fighting another brown pig,**
+pool/pool-5,white pool on the green table,white ball on the green table,
+racing/racing-10,black racing car moving along track,black racing car in front left moving along track,
+racing/racing-15,white racing car moving along track,white racing car in the front moving along track,
+racing/racing-5,white racing car moving along track,white racing car in the back moving along track,
+robot/robot-20,black robot moving on green floor,black robot moving on green floor,**
+robot/robot-5,robot arm head moving around,arm head of the right robot moving around,
+robot/robot-6,robot playing toy blocks,left arm head of the robot,
+robot/robot-1,white robot playing red ball on green table,white robot on the right,
+robot/robot-19,gray robot fighting with other robots on white table,gray robot on the left standing and fighting with other robots on white table,*
+robot/robot-12,robot playing ball with other robots,robot playing ball with other robots,**
+robot/robot-11,white robot playing orange football on green table,white robot playing orange football on green table,**
+rubicCube/rubicCube-19,rubic cube rotated by human hand,the second from the right rubic cube,
+rubicCube/rubicCube-8,rubic cube rotated by human hand,rubic cube rotated by the person on the right,
+rubicCube/rubicCube-15,rubic cube placing on the desktop,rubic cube placing on the desktop with a heart shape,
+rubicCube/rubicCube-2,rubic cube rotated by human hand,rubic cube rotated by the person on the left,
+rubicCube/rubicCube-1,rubic cube rotated by human hand,rubic cube in the central front,
+rubicCube/rubicCube-6,rubic cube placing on the desktop,rubic cube placing in the back right,
+shark/shark-4,shark swimming in tank,shark swimming in tank,**
+shark/shark-19,shark swimming with other fish in water tank,small shark in the bottom swimming with other fish in water tank,*
+shark/shark-2,shark swimming with another shark in water tank,shark with black fin swimming with another shark in water tank,**
+sheep/sheep-14,sheep running on grass with other sheep,sheep running on grass with other sheep,**
+sheep/sheep-9,sheep running on the grass with other sheep,sheep running on the grass with other sheep,**
+sheep/sheep-16,sheep running on the grass with other sheep,light grey sheep running on the grass with other sheep,*
+sheep/sheep-8,sheep playing with another sheep on the grass,sheep with black head and foots playing with on the grass,
+sheep/sheep-12,sheep running on grass with other sheep,sheep running on grass with other sheep,**
+sheep/sheep-7,sheep running on the grass,sheep in the back running on the grass,
+sheep/sheep-5,sheep running on the grass with other sheep,sheep in the front running on the grass with other sheep,**
+sheep/sheep-19,black sheep walking on the road with other sheep,black sheep in the front walking on the road with other sheep,
+sheep/sheep-17,sheep running with other sheep,sheep running with other sheep,**
+sheep/sheep-6,sheep running on the grass,large white sheep running on the grass,
+sheep/sheep-2,sheep running with other sheep,sheep running with other sheep,**
+sheep/sheep-11,sheep running on grass with other sheep,sheep running on grass with other sheep,**
+sheep/sheep-15,sheep running on grass with other sheep,sheep on the left,*
+sheep/sheep-4,sheep running on the road with other sheep,sheep in the front right,*
+sheep/sheep-13,sheep running on grass with other sheep,sheep on the left,
+sheep/sheep-18,sheep running on the grass with other sheep,sheep running on the grass with other sheep,**
+sheep/sheep-3,sheep playing with other sheep on the grass,little sheep playing with other sheep on the grass,**
+sheep/sheep-20,sheep running on the grass with other sheep,sheep in the middle,**
+sheep/sheep-10,sheep running on grass with other sheep,sheep running on grass with other sheep,**
+spider/spider-11,spider hunting on its web,small spider hunting on its web,
+squirrel/squirrel-4,squirrel sitting on tree trunk with other squirrels,squirrel sitting and eating on top of the tree trunk,
+swing/swing-11,swing played by children,swing played by the left child,
+tank/tank-8,tank moving on the road,tank on the far left moving on the road,**
+tank/tank-9,tank moving on the ground,tank moving around the corner in front of the audience,*
+tank/tank-19,tank moving towards another tank,a flat light grey tank moving towards another tank,
+tank/tank-16,tank moving on the ground,tank on the right moving on the ground,
+tank/tank-12,tank moving on the ground,tank with covered wheels moving on the ground,
+tiger/tiger-2,tiger playing on the grass with another tiger,tiger walking around and playing on the grass with another tiger,*
+tiger/tiger-3,tiger playing with another tiger on the grass,tigher on the left,
+tiger/tiger-15,tiger walking on the road with her cubs,large tiger walking on the road with her cubs,
+tiger/tiger-20,tiger playing with another tiger under the trees,tiger playing with another tiger under the trees,**
+tiger/tiger-11,tiger swimming in the water with another tiger,tiger swimming in the water with another tiger,**
+tiger/tiger-4,tiger playing with another tiger on the grass,tiger playing with another tiger on the grass,**
+tiger/tiger-6,tiger playing with another tiger on dry grass,tiger playing with another tiger on dry grass,**
+train/train-9,black train moving on its track,the first cabin of a black train moving on its track,
+train/train-2,yellow train moving on its track,the first cabin of a yellow train moving on its track,
+train/train-11,black train moving on its track,the first two balck cabin of a train moving on its track,
+train/train-15,blue train moving on its track,blue and white train moving on its track,
+train/train-8,orange train moving on its track,orange cabin in a train,
+train/train-14,yellow train moving on its track,yellow locomotive,
+train/train-6,train moving on its track,first cabin of a blue and wite train,
+train/train-1,blue train moving on its track,head of a blue train moving on its track,
+train/train-7,train moving on its track,first cabin of a white train moving on its track,
+train/train-5,train moving on its track,locomotive moving on its track,
+train/train-3,blue train moving on its track,first cabin of a blue train moving on its track,
+train/train-10,train moving along the track,locomotive moving on its track,
+truck/truck-15,white truck moving on the road,white truck with logo moving on the road,
+truck/truck-5,truck moving on the road,white truck moving from the right to the left lane,
+truck/truck-20,truck moving on the road among other vehicles,truck on the left lane,
+truck/truck-12,red truck moving on the road,red truck with white trailer moving on the road,
+truck/truck-10,white truck moving on the road,white truck on the right,
+turtle/turtle-8,turtle swimming with other turtles in the water,dark green turtle swimming with other turtles in the water,**
+turtle/turtle-4,turtle swimming in the water with another turtle,turtle swimming in the water with another turtle,**
+turtle/turtle-17,turtle swimming with other turtles in water,dark green turtle swimming with other turtles in water,**
+umbrella/umbrella-11,red umbrella waved among other umbrellas by a woman in red,the front middle red umbrella waved among other umbrellas by a woman in red,*
+umbrella/umbrella-12,red umbrella waved among other umbrellas by a girl,red umbrella waved among other umbrellas by a girl on the left,
+umbrella/umbrella-19,blue umbrella waved among other umbrellas by a girl in blue,blue umbrella in the middle,
+umbrella/umbrella-9,red umbrella waved among other umbrellas by a woman in black,red umbrella waved by a woman in head of the group,
+umbrella/umbrella-10,white umbrella waved by a woman in white dress,white umbrella waved by a woman in white dress,**
+umbrella/umbrella-8,umbrella held by person,the third from the left umbrella moving around by person,*
+volleyball/volleyball-18,volleyball bouncing between wall and a woman in blue,volleyball bouncing between wall and the woman in the back,
+volleyball/volleyball-8,volleyball holding by a girl in pink,volleyball passed to and hold by a girl in pink,
+zebra/zebra-1,zebra playing with other zebras on grass,black and light brown zebra playing with other zebras on grass,**
+zebra/zebra-16,zebra running on dry grass with other zebras,small zebra running on dry grass with other zebras,
+zebra/zebra-8,zebra walking with other zebra,zebra walking with other zebra,**
+zebra/zebra-11,zebra running on the grass with another zebra,zebra on the right,
+zebra/zebra-3,zebra walking with other zebras,zebra on the front left,
+zebra/zebra-12,zebra running on the grass with other zebras,zebra running on the grass with other zebras,**
+zebra/zebra-13,zebra moving on the ground,small zebra moving on the ground,
+zebra/zebra-5,zebra walking with another zebra,zebra walking with another zebra,**
+zebra/zebra-19,zebra playing with another zebra in yard of zoo,zebra playing with another zebra in yard of zoo,**
+zebra/zebra-2,zebra walking with little zebra in yard of zoo,large zebra walking with little zebra in yard of zoo,
+zebra/zebra-4,zebra running with other zebras,zebra walking around the pool and running with other zebras,**
+zebra/zebra-10,zebra running on the grass with other zebras,the second from the right zebra,**
+zebra/zebra-7,zebra walking with another zebra,small zebra walking with another zebra,
+zebra/zebra-15,zebra running with another zebra,zebra with black mane walking closer,
+zebra/zebra-9,zebra running on the ground with other zebras,large zebra running on the ground with other zebras,*
+zebra/zebra-6,zebra moving on the ground,zebra in the center,**
+zebra/zebra-20,zebra walking on the ground around another zebra,small zebra walking on the ground around another zebra,**
