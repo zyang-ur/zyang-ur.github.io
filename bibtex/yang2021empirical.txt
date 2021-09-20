@@ -1,0 +1,6 @@
+@article{yang2021empirical,
+  title={An Empirical Study of GPT-3 for Few-Shot Knowledge-Based VQA},
+  author={Yang, Zhengyuan and Gan, Zhe and Wang, Jianfeng and Hu, Xiaowei and Lu, Yumao and Liu, Zicheng and Wang, Lijuan},
+  journal={arXiv preprint arXiv:2109.05014},
+  year={2021}
+}
