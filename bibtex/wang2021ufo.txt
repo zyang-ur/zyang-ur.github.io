@@ -1,0 +1,6 @@
+@article{wang2021ufo,
+  title={UFO: A UniFied TransfOrmer for Vision-Language Representation Learning},
+  author={Wang, Jianfeng and Hu, Xiaowei and Gan, Zhe and Yang, Zhengyuan and Dai, Xiyang and Liu, Zicheng and Lu, Yumao and Wang, Lijuan},
+  journal={arXiv preprint arXiv:2111.10023},
+  year={2021}
+}
