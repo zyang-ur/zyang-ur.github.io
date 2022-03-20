@@ -1,0 +1,6 @@
+@inproceedings{hu2021scaling,
+  title={Scaling up vision-language pre-training for image captioning},
+  author={Hu, Xiaowei and Gan, Zhe and Wang, Jianfeng and Yang, Zhengyuan and Liu, Zicheng and Lu, Yumao and Wang, Lijuan},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  year={2022}
+}
