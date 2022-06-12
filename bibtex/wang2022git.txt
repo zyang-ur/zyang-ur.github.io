@@ -1,0 +1,6 @@
+@article{wang2022git,
+  title={GIT: A Generative Image-to-text Transformer for Vision and Language},
+  author={Wang, Jianfeng and Yang, Zhengyuan and Hu, Xiaowei and Li, Linjie and Lin, Kevin and Gan, Zhe and Liu, Zicheng and Liu, Ce and Wang, Lijuan},
+  journal={arXiv preprint arXiv:2205.14100},
+  year={2022}
+}
