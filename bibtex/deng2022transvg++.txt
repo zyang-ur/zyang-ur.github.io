@@ -1,0 +1,6 @@
+@article{deng2022transvg++,
+  title={TransVG++: End-to-End Visual Grounding with Language Conditioned Vision Transformer},
+  author={Deng, Jiajun and Yang, Zhengyuan and Liu, Daqing and Chen, Tianlang and Zhou, Wengang and Zhang, Yanyong and Li, Houqiang and Ouyang, Wanli},
+  journal={arXiv preprint arXiv:2206.06619},
+  year={2022}
+}
