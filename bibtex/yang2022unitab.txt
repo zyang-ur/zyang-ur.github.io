@@ -1,0 +1,6 @@
+@article{yang2022unitab,
+  title={UniTAB: Unifying Text and Box Outputs for Grounded Vision-Language Modeling},
+  author={Yang, Zhengyuan and Gan, Zhe and Wang, Jianfeng and Hu, Xiaowei and Ahmed, Faisal and Liu, Zicheng and Lu, Yumao and Wang, Lijuan},
+  booktitle={ECCV},
+  year={2022}
+}
