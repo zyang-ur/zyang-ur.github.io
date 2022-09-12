@@ -1,0 +1,7 @@
+@inproceedings{yang2022cross,
+  title={Cross-modal Contrastive Distillation for Instructional Activity Anticipation},
+  author={Yang, Zhengyuan and Liu, Jingen and Huang, Jing and He, Xiaodong and Mei, Tao and Xu, Chenliang and Luo, Jiebo},
+  booktitle={International Conference on Pattern Recognition (ICPR)},
+  year={2022}.
+  organization={IEEE}
+}
