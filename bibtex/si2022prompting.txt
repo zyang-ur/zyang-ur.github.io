@@ -1,0 +1,6 @@
+@article{si2022prompting,
+  title={Prompting GPT-3 To Be Reliable},
+  author={Si, Chenglei and Gan, Zhe and Yang, Zhengyuan and Wang, Shuohang and Wang, Jianfeng and Boyd-Graber, Jordan and Wang, Lijuan},
+  journal={arXiv preprint arXiv:2210.09150},
+  year={2022}
+}
