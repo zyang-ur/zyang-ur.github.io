@@ -1,0 +1,6 @@
+@article{yang2022reco,
+  title={ReCo: Region-Controlled Text-to-Image Generation},
+  author={Yang, Zhengyuan and Wang, Jianfeng and Gan, Zhe and Li, Linjie and Lin, Kevin and Wu, Chenfei and Duan, Nan and Liu, Zicheng and Liu, Ce and Zeng, Michael and others},
+  journal={arXiv preprint arXiv:2211.15518},
+  year={2022}
+}

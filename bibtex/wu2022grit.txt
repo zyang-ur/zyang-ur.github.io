@@ -1,0 +1,6 @@
+@article{wu2022grit,
+  title={GRiT: A Generative Region-to-text Transformer for Object Understanding},
+  author={Wu, Jialian and Wang, Jianfeng and Yang, Zhengyuan and Gan, Zhe and Liu, Zicheng and Yuan, Junsong and Wang, Lijuan},
+  journal={arXiv preprint arXiv:2212.00280},
+  year={2022}
+}
