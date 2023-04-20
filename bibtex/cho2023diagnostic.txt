@@ -1,0 +1,6 @@
+@article{cho2023diagnostic,
+  title={Diagnostic Benchmark and Iterative Inpainting for Layout-Guided Image Generation},
+  author={Cho, Jaemin and Li, Linjie and Yang, Zhengyuan and Gan, Zhe and Wang, Lijuan and Bansal, Mohit},
+  journal={arXiv preprint arXiv:2304.06671},
+  year={2023}
+}

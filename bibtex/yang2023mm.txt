@@ -1,0 +1,6 @@
+@article{yang2023mm,
+  title={Mm-react: Prompting chatgpt for multimodal reasoning and action},
+  author={Yang, Zhengyuan and Li, Linjie and Wang, Jianfeng and Lin, Kevin and Azarnasab, Ehsan and Ahmed, Faisal and Liu, Zicheng and Liu, Ce and Zeng, Michael and Wang, Lijuan},
+  journal={arXiv preprint arXiv:2303.11381},
+  year={2023}
+}

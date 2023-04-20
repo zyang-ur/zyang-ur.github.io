@@ -144,7 +144,7 @@
           </tr>
  -->				
  				<ps>
-					<li> [2023/03] &nbsp We build <a href="https://multimodal-react.github.io">MM-REACT</a>, a system paradigm that integrates ChatGPT with a pool of vision experts to achieve multimodal reasoning and action.
+					<li> [2023/03] &nbsp We build <a href="https://multimodal-react.github.io">MM-REACT</a>, a system paradigm that integrates LLMs with a pool of vision experts to achieve multimodal reasoning and action.
 					<li> [2023/03] &nbsp <em>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</em> special issue on <a href="https://ieee-cas.org/files/ieeecass/2023-03/Call%20for%20papers%20%28AIGC%29_final_0306.pdf">"AI-Generated Content for Multimedia."</a> Submission deadline: June 1st, 2023.
 					<li> [2023/02] &nbsp <a href="https://arxiv.org/pdf/2211.15518.pdf">ReCo</a> is our new text-to-image model that allows the precise region control of input text queries, accepted by CVPR 2023. <a href="./reco/reco.png">See a teaser here.</a>
 					<li> [2023/01] &nbsp <a href="https://arxiv.org/pdf/2210.09150.pdf">Prompting GPT-3 To Be Reliable</a> accepted by ICLR 2023.
@@ -191,14 +191,52 @@
 
 		<tbody><tr bgcolor="#ffffd0">
 			<td width="25%">
+				<a href="./mmreact.png">
+				<img src="./mmreact.png" width="200px" height="100px">
+				<li>Click for zooming up.</li>
+			</td>
+			<td valign="top" width="75%">
+				<p>
+				<papertitle><a href="https://arxiv.org/pdf/2303.11381.pdf">MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action</a></papertitle><br>
+				<strong>Zhengyuan Yang*</strong>, Linjie Li*, Jianfeng Wang*, Kevin Lin*, Ehsan Azarnasab*, Faisal Ahmed*, Zicheng Liu, Ce Liu, Michael Zeng, Lijuan Wang <br>
+				Technical report <br>
+				[<a href="https://arxiv.org/pdf/2303.11381.pdf">PDF</a>]
+				[<a href="https://multimodal-react.github.io/">Project Page</a>]
+				[<a href="https://github.com/microsoft/MM-REACT">Code</a>]
+				[<a href="https://huggingface.co/spaces/microsoft-cognitive-service/mm-react">Demo</a>]
+				[<a href="./bibtex/yang2023mm.txt">Bibtex</a>]
+				<p><grey> MM-REACT</a> is a system paradigm that integrates LLMs with a pool of vision experts to achieve multimodal reasoning and action. </grey></p>
+			</td>
+		</tr>
+
+			<td width="25%">
+				<a href="./LayoutBench.png">
+				<img src="./LayoutBench.png" width="200px">
+ 				<li>Click for zooming up.</li>
+			</td>
+			<td valign="top" width="75%">
+				<p>
+				<papertitle><a href="https://arxiv.org/pdf/2304.06671.pdf">Diagnostic Benchmark and Iterative Inpainting for Layout-Guided Image Generation</a></papertitle><br>
+				Jaemin Cho, Linjie Li, <strong>Zhengyuan Yang</strong>, Zhe Gan, Lijuan Wang, Mohit Bansal <br>
+				Technical report <br>
+				[<a href="https://arxiv.org/pdf/2304.06671.pdf">PDF</a>]
+				[<a href="https://layoutbench.github.io/">Project Page</a>]
+				[<a href="https://github.com/j-min/LayoutBench">Code</a>]
+				[<a href="https://huggingface.co/spaces/j-min/IterInpaint-CLEVR">Demo</a>]
+				[<a href="./bibtex/cho2023diagnostic.txt">Bibtex</a>]
+				<p><grey> LayoutBench evaluates layout-guided image generation models with out-of-distribution (OOD) layouts in four skills: number, position, size, and shape. </grey></p>
+			</td>
+		</tr>
+
+		<tbody><tr bgcolor="#ffffd0">
+			<td width="25%">
 				<a href="./reco/reco.png">
 				<img src="./reco/reco.png" width="200px" height="100px">
 				<li>Click for zooming up.</li>
 			</td>
 			<td valign="top" width="75%">
 				<p>
-				<papertitle><a href="https://arxiv.org/pdf/2211.15518.pdf">ReCo: Region-Controlled Text-to-Image Generation
-</a></papertitle><br>
+				<papertitle><a href="https://arxiv.org/pdf/2211.15518.pdf">ReCo: Region-Controlled Text-to-Image Generation</a></papertitle><br>
 				<strong>Zhengyuan Yang</strong>, Jianfeng Wang, Zhe Gan, Linjie Li, Kevin Lin, Chenfei Wu, Nan Duan, Zicheng Liu, Ce Liu, Michael Zeng, Lijuan Wang <br>
 				CVPR 2023. <br>
 				[<a href="https://arxiv.org/pdf/2211.15518.pdf">PDF</a>]
@@ -841,26 +879,35 @@
 					<li> <strong>Zhengyuan Yang</strong>, Jianfeng Wang, Zhe Gan, Linjie Li, Kevin Lin, Chenfei Wu, Nan Duan, Zicheng Liu, Ce Liu, Michael Zeng, Lijuan Wang, "ReCo: Region-Controlled Text-to-Image Generation," <em> IEEE Conference on Computer Vision and Pattern Recognition (CVPR)</em>, Vancouver, BC, June 2023.
 					[<a href="https://arxiv.org/pdf/2211.15518.pdf">PDF</a>]
 					</li>
-					<li> Xiaodong Wang, Chenfei Wu, Shengming Yin, Minheng Ni, Jianfeng Wang, Linjie Li, <strong>Zhengyuan Yang</strong>, Fan Yang, Lijuan Wang, Zicheng Liu, Yuejian Fang, Nan Duan, "Learning 3D Photography Videos via Self-supervised Diffusion on Single Images," 2023.
+					<li> Jaemin Cho, Linjie Li, <strong>Zhengyuan Yang</strong>, Zhe Gan, Lijuan Wang, Mohit Bansal, "Diagnostic Benchmark and Iterative Inpainting for Layout-Guided Image Generation," 2023.
+					[<a href="https://arxiv.org/pdf/2304.06671.pdf">PDF</a>][<a href="https://layoutbench.github.io/">Project page</a>]
+					</li>
+					<li> Tan Wang, Kevin Lin, Linjie Li, Chung-Ching Lin, <strong>Zhengyuan Yang</strong>, Hanwang Zhang, Zicheng Liu, Lijuan Wang, "Equivariant Similarity for Vision-Language Foundation Models," 2023.
+					[<a href="https://arxiv.org/pdf/2303.14465.pdf">PDF</a>][<a href="https://github.com/Wangt-CN/EqBen">Code</a>]
+					</li>					
+					<li> Shengming Yin, Chenfei Wu, Huan Yang, Jianfeng Wang, Xiaodong Wang, Minheng Ni, <strong>Zhengyuan Yang</strong>, Linjie Li, Shuguang Liu, Fan Yang, Jianlong Fu, Gong Ming, Lijuan Wang, Zicheng Liu, Houqiang Li, Nan Duan, "NUWA-XL: Diffusion over Diffusion for eXtremely Long Video Generation," 2023.
+					[<a href="https://arxiv.org/pdf/2303.12346.pdf">PDF</a>]
+					</li>
+					<li> Xiaodong Wang, Chenfei Wu, Shengming Yin, Minheng Ni, Jianfeng Wang, Linjie Li, <strong>Zhengyuan Yang</strong>, Fan Yang, Lijuan Wang, Zicheng Liu, Yuejian Fang, Nan Duan, "Learning 3D Photography Videos via Self-supervised Diffusion on Single Images," <em>The 32nd International Joint Conference on Artificial Intelligence (IJCAI-23)</em>, Macao, August 2023.
 					[<a href="https://arxiv.org/pdf/2302.10781.pdf">PDF</a>]
 					</li>
 					<li> Jialian Wu, Jianfeng Wang, <strong>Zhengyuan Yang</strong>, Zhe Gan, Zicheng Liu, Junsong Yuan, Lijuan Wang, "GRiT: A Generative Region-to-text Transformer for Object Understanding," 2022.
-					[<a href="https://arxiv.org/pdf/2212.00280.pdf">PDF</a>]
+					[<a href="https://arxiv.org/pdf/2212.00280.pdf">PDF</a>][<a href="https://github.com/JialianW/GRiT">Code</a>]
 					</li>
 					<li> Yushi Hu, Hang Hua, <strong>Zhengyuan Yang</strong>, Weijia Shi, Noah A. Smith, Jiebo Luo, "PromptCap: Prompt-Guided Task-Aware Image Captioning," 2022.
-					[<a href="https://arxiv.org/pdf/2211.09699.pdf">PDF</a>]
+					[<a href="https://arxiv.org/pdf/2211.09699.pdf">PDF</a>][<a href="https://github.com/Yushi-Hu/PromptCap">Code</a>]
 					</li>
 					<li> Chenglei Si, Zhe Gan, <strong>Zhengyuan Yang</strong>, Shuohang Wang, Jianfeng Wang, Jordan Boyd-Graber, Lijuan Wang, "Prompting GPT-3 To Be Reliable," <em>The Eleventh International Conference on Learning Representations (ICLR)</em>, Kigali, Rwanda, May 2023.
-					[<a href="https://arxiv.org/pdf/2210.09150.pdf">PDF</a>]
+					[<a href="https://arxiv.org/pdf/2210.09150.pdf">PDF</a>][<a href="https://github.com/NoviScl/GPT3-Reliability">Code</a>]
 					</li>
 					<li> Jiajun Deng, <strong>Zhengyuan Yang</strong>, Daqing Liu, Tianlang Chen, Wengang Zhou, Yanyong Zhang, Houqiang Li, Wanli Ouyang, "TransVG++: End-to-End Visual Grounding with Language Conditioned Vision Transformer," 2022.
-					[<a href="https://arxiv.org/pdf/2206.06619.pdf">PDF</a>]
+					[<a href="https://arxiv.org/pdf/2206.06619.pdf">PDF</a>][<a href="https://github.com/djiajunustc/TransVG">Code</a>]
 					</li>
 					<li> Jianfeng Wang, <strong>Zhengyuan Yang</strong>, Xiaowei Hu, Linjie Li, Kevin Lin, Zhe Gan, Zicheng Liu, Ce Liu, Lijuan Wang, "GIT: A Generative Image-to-text Transformer for Vision and Language," <em>Transactions on Machine Learning Research (TMLR)</em>, 2022.
-					[<a href="https://arxiv.org/pdf/2205.14100.pdf">PDF</a>]
+					[<a href="https://arxiv.org/pdf/2205.14100.pdf">PDF</a>][<a href="https://github.com/microsoft/GenerativeImage2Text">Code</a>]
 					</li>
 					<li> <strong>Zhengyuan Yang</strong>, Zhe Gan, Jianfeng Wang, Xiaowei Hu, Faisal Ahmed, Zicheng Liu, Yumao Lu and Lijuan Wang, "UniTAB: Unifying Text and Box Outputs for Grounded Vision-Language Modeling," <em>European Conference on Computer Vision (ECCV)</em>, Tel Aviv, Israel, October 2022. <red>(Oral Presentation)</red>
-					[<a href="https://arxiv.org/pdf/2111.12085.pdf">PDF</a>]
+					[<a href="https://arxiv.org/pdf/2111.12085.pdf">PDF</a>][<a href="https://github.com/microsoft/UniTAB">Code</a>]
 					</li>
 					<li> Jianfeng Wang, Xiaowei Hu, Zhe Gan, <strong>Zhengyuan Yang</strong>, Xiyang Dai, Zicheng Liu, Yumao Lu and Lijuan Wang, "UFO: A UniFied TransfOrmer for Vision-Language Representation Learning," 2021.
 					[<a href="https://arxiv.org/pdf/2111.10023.pdf">PDF</a>]
