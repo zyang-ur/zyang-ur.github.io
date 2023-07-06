@@ -1,0 +1,8 @@
+@misc{wang2023disco,
+      title={DisCo: Disentangled Control for Referring Human Dance Generation in Real World}, 
+      author={Tan Wang and Linjie Li and Kevin Lin and Chung-Ching Lin and Zhengyuan Yang and Hanwang Zhang and Zicheng Liu and Lijuan Wang},
+      year={2023},
+      eprint={2307.00040},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
