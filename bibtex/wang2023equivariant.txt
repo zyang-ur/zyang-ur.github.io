@@ -1,0 +1,6 @@
+@article{wang2023equivariant,
+  title={Equivariant Similarity for Vision-Language Foundation Models},
+  author={Wang, Tan and Lin, Kevin and Li, Linjie and Lin, Chung-Ching and Yang, Zhengyuan and Zhang, Hanwang and Liu, Zicheng and Wang, Lijuan},
+  journal={arXiv preprint arXiv:2303.14465},
+  year={2023}
+}
