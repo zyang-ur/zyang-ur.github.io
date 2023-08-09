@@ -1,0 +1,8 @@
+@misc{yu2023mmvet,
+      title={MM-Vet: Evaluating Large Multimodal Models for Integrated Capabilities}, 
+      author={Weihao Yu and Zhengyuan Yang and Linjie Li and Jianfeng Wang and Kevin Lin and Zicheng Liu and Xinchao Wang and Lijuan Wang},
+      year={2023},
+      eprint={2308.02490},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI}
+}
