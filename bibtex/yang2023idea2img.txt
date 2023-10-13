@@ -1,0 +1,6 @@
+@article{yang2023idea2img,
+  title= {Idea2Img: Iterative Self-Refinement with GPT-4V(ision) for Automatic Image Design and Generation},
+  author={Yang, Zhengyuan and Wang, Jianfeng and Li, Linjie and Lin, Kevin and Lin, Chung-Ching and Liu, Zicheng and Wang, Lijuan},
+  journal={arXiv preprint arXiv:2310.08541},
+  year= {2023},
+}
